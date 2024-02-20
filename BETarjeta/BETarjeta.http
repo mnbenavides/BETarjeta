@@ -1,0 +1,6 @@
+@BETarjeta_HostAddress = http://localhost:5076
+
+GET {{BETarjeta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
